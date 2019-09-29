@@ -4,6 +4,15 @@ body{
     background-color: antiquewhite;
 }
 
+#header{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: burlywood;
+    text-align: center;
+    color: white;
+}
+
 #profile-container{
     max-width: 300px;
     background-color: azure;
@@ -18,12 +27,4 @@ body{
 
 #profile-name{
     text-align: center;
-}
-#header{
-    width: 100%;
-    height: 50px;
-    line-height: 50px;
-    background-color: burlywood;
-    text-align: center;
-    color: white;
 }
